@@ -1,5 +1,4 @@
 ### Hi there 👋
-How are 
 
 <!--
 **johnson-samuel/johnson-samuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
