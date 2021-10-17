@@ -1,11 +1,11 @@
 
 ##### Hi there
 
-##### 🟠My Profile:
+##### 🟠 My Profile:
 
 [![Johnson's_personal_website][Johnson's_personal_website-shield]][Johnson's_personal_website-url]
 
-##### 🟡Connect with me:
+##### 🟢 Connect with me:
 
 [![twitter][twitter-shield]][twitter-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
@@ -13,7 +13,7 @@
 [![Facebook][Facebook-shield]][Facebook-url]
 [![Researchgate][Researchgate-shield]][Researchgate-url]
 
-##### 🟢Support my work:
+##### 🔵 Support my work:
 
 [![Buymeacoffee][Buymeacoffee-shield]][Buymeacoffee-url]
 
