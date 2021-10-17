@@ -1,9 +1,9 @@
-[![twitter][twitter-shield]][twitter-url] [![LinkedIn][linkedin-shield]][linkedin-url] [![Instagram][Instagram-shield]][https://www.instagram.com/_johnson_samuel_] [![Facebook][Facebook-shield]][Facebook-url] [![Researchgate][Researchgate-shield]][Researchgate-url]
+[![twitter][twitter-shield]][twitter-url] [![LinkedIn][linkedin-shield]][linkedin-url] [![Instagram][Instagram-shield]][instagram-url] [![Facebook][Facebook-shield]][Facebook-url] [![Researchgate][Researchgate-shield]][Researchgate-url]
 
 [twitter-shield]: https://img.shields.io/badge/-twitter-black.svg?style=for-the-badge&logo=twitter&colorY=332
 [twitter-url]: https://twitter.com/in/twitter_username
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorY=332
-[linkedin-url]: https://linkedin.com/in/linkedin_username
+[linkedin-url]: https://www.linkedin.com/in/johnson-samuel-1a5753167
 [Instagram-shield]: https://img.shields.io/badge/-Instagram-black.svg?style=for-the-badge&logo=Instagram&colorY=332
 [Instagram-url]: https://Instagram.com/in/_johnson_samuel_
 [Facebook-shield]: https://img.shields.io/badge/-Facebook-black.svg?style=for-the-badge&logo=Facebook&colorY=332
