@@ -1,5 +1,3 @@
-![alt text](https://drive.google.com/file/d/1sq1U1iNCdXKp69zoHmlrI6TkYy5AKOO0/view?usp=sharing)
-
 
 ##### Hi there
 
