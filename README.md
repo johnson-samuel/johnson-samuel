@@ -1,4 +1,4 @@
-[![twitter][twitter-shield]][twitter-url] [![LinkedIn][linkedin-shield]][linkedin-url] [![Instagram][Instagram-shield]][Instagram-url] [![Facebook][Facebook-shield]][Facebook-url] [![Researchgate][Researchgate-shield]][Researchgate-url]
+[![twitter][twitter-shield]][twitter-url] [![LinkedIn][linkedin-shield]][linkedin-url] [![Instagram][Instagram-shield]][https://www.instagram.com/_johnson_samuel_] [![Facebook][Facebook-shield]][Facebook-url] [![Researchgate][Researchgate-shield]][Researchgate-url]
 
 [twitter-shield]: https://img.shields.io/badge/-twitter-black.svg?style=for-the-badge&logo=twitter&colorY=332
 [twitter-url]: https://twitter.com/in/twitter_username
