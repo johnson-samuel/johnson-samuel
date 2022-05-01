@@ -4,6 +4,7 @@
 ##### 🔴 My Profile:
 
 [![Johnson's_personal_website][Johnson's_personal_website-shield]][Johnson's_personal_website-url]
+[![Johnson's_Linktree_website][Johnson's_Linktree_website-shield]][Johnson's_Linktree_website-url]
 
 ##### 🟢 Connect with me:
 
@@ -20,6 +21,8 @@
 <!-- codes for the above websites -->
 [Johnson's_personal_website-shield]: https://img.shields.io/badge/-Johnson's_personal_website-black.svg?style=for-the-badge&logo=Johnson's_personal_website&colorY=332
 [Johnson's_personal_website-url]: https://sites.google.com/d/1u3SquNC-6JyszTk5-lWEY_yLRVMEsTRZ/p/1YgYu2uYZ0qBcowmFR70c1wTYBlRiKzLV/edit
+[Johnson's_Linktree_website-shield]: https://img.shields.io/badge/-Linktree-black.svg?style=for-the-badge&logo=Linktreein&colorY=332
+[Johnson's_Linktree_website-url]: https://linktr.ee/johnson_samuel
 [twitter-shield]: https://img.shields.io/badge/-twitter-black.svg?style=for-the-badge&logo=twitter&colorY=332
 [twitter-url]: https://twitter.com/Johnson_Samuel_
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorY=332
@@ -32,5 +35,3 @@
 [Researchgate-url]: https://www.researchgate.net/profile/Johnson_Samuel2
 [Buymeacoffee-shield]: https://img.shields.io/badge/-Buymeacoffee-black.svg?style=for-the-badge&logo=Buymeacoffee&colorY=332
 [Buymeacoffee-url]: https://www.buymeacoffee.com/johnson.samuel
-
-
